@@ -1,6 +1,6 @@
 # 简单后台系统角色分配组件
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/cabinY/img/blob/master/images/roleAssign.png)
 
 > A Vue.js project
 
